@@ -1,4 +1,4 @@
-## Windows-Hacker-Programming  
+﻿## Windows-Hacker-Programming  
 #### Introduction  
 This repository to study [DemonGan](https://github.com/DemonGan)'s 《Windows黑客编程技术详解》 and maybe find some bugs and hear helpful suggestion.  
 #### Development environment  
@@ -30,3 +30,5 @@ This repository to study [DemonGan](https://github.com/DemonGan)'s 《Windows黑
 注：省略`第1篇第1章开发环境`和`第2篇第1章开发环境`的介绍
 Notice：Neglect introduce development environment
 ```
+#### Notice  
+- This repository only have code and notes,maybe you should need all resources,please download this package `WINDOWS黑客编程技术详解-配套代码`.
